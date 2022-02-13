@@ -1,2 +1,6 @@
-# mwc22data
-MWC 22 | data Hackaton
+# MWC 22 | data
+Paula Gual
+
+Los Archivos entregados:
+- mwc22data (notebook)
+- results.csv
